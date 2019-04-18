@@ -1,7 +1,7 @@
 {
-  "name": "next-demo",
+  "name": "nextjs-demo",
   "version": "1.0.0",
-  "description": "",
+  "description": "nextjs-demo",
   "main": "index.js",
   "scripts": {
     "dev": "next",
